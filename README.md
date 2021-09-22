@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @bhart7140
+- 👀 I’m interested crypto mining...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+bhart7140/bhart7140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
